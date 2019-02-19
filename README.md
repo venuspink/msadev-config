@@ -15,7 +15,5 @@ MSA config
 3. 마이크로서비스 서버 실행
 ```
 ### 호출 url
-```
 * [컨피그서버 http://localhost:8888/config/licensingservice/default](http://localhost:8888/config/licensingservice/default)
 * [스프링부트어드민 http://localhost:8888/admin](http://localhost:8888/admin)
-```
