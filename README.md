@@ -21,3 +21,4 @@ MSA config
 * [스프링부트어드민 http://localhost:8888/admin](http://localhost:8888/admin)
 * [라이센스 서비스 호출 http://desktop-9hcaj4p:8082/v1/org/IFD/licenses/20190001 서비스명은 가변적임](http://desktop-9hcaj4p:8082/v1/org/IFD/licenses/20190001)
 * [Zuul 게이트웨이 호출 http://localhost:8087/api/license/v1/org/USARMY/licenses/CS_098722](http://localhost:8087/api/license/v1/org/USARMY/licenses/CS_098722)
+* [zuul 서비스되고 있는 routes 확인 http://localhost:8087/actuator/routes](http://localhost:8087/actuator/routes)
