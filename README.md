@@ -19,7 +19,7 @@ MSA config
 ```
 1. 컨피그 서버 실행 (스프링 부트 어드민 포함)
 2. 유레카 서버 실행
-3. 마이크로서비스 서버 실행
+3. 비즈니스서비스 및 Zuul게이트웨이 서버 실행
 ```
 ### 호출 url
 * [컨피그서버 http://localhost:8888/config/licensingservice/default](http://localhost:8888/config/licensingservice/default)
