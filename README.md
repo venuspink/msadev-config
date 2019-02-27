@@ -9,7 +9,11 @@ MSA config
 * 라이센스 서비스에 유레카 클라이언트 추가하여 유레카 서버와 연결.
 * spring boot Admin 의존성을 기존 컨피그 프로젝트에 추가. yml 설정파일 수정. context-path설정.
 * 게이트웨이(zuul) 서비스 추가 구성 (새로운 프로젝트로)
-** asd
+  * spring-boot-starter
+  * spring-cloud-config-client
+  * spring-boot-admin-starter-client
+  * spring-cloud-starter-netflix-eureka-client
+  * spring-cloud-starter-netflix-zuul
 
 ### 서버 작동 순서
 ```
